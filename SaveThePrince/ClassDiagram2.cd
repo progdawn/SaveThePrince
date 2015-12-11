@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SaveThePrince.Admin" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAgAAAAAACAAAAAgAIAAAAIAAAAAAAEAAAAAAAAIA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.BattleInterface" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQADAAAAAABAAIAAAQAQAAAACAAIAABQ=</HashCode>
+      <FileName>BattleInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.Enemy" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ECQAIhIAAECAAQAAAIAALAAQBEBIAACQCAAAARAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.InstructionsMenu" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAAAAAAAAEQAAAAAAAAEAAABAAAAAA=</HashCode>
+      <FileName>InstructionsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.MainController" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAQAhghAAAEACAIAAAAAAASIAACAAQAAAAAAA=</HashCode>
+      <FileName>MainController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.Monsters" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAQAgAAEACAAAAAAYBhAAmAcQAAAAgAAAAAACAAE=</HashCode>
+      <FileName>Monsters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.OptionsMenu" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBQAggAAABCAAAAAEBAAAAAEAAAABgAAAA=</HashCode>
+      <FileName>OptionsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.Player" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAGAAhAAAACAAAAAAKEACACAAAAAAIAAACAACBAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.PlayerMenu" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>PlayerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.PlayerSleep" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>PlayerSleep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.SaveThePrinceApp" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SaveThePrinceApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.SoundEffects" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>SoundEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.StageInterface" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAIQABAAgAAAQAAAAAAAAAAIQAAAAAAAAAAAA=</HashCode>
+      <FileName>StageInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveThePrince.StoryInterface" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAQAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StoryInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

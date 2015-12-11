@@ -1,0 +1,6 @@
+c:\users\dawn\documents\visual studio 2012\Projects\SaveThePrince\SaveThePrince\bin\Debug\SaveThePrince.exe.config
+C:\Users\Dawn\documents\visual studio 2012\Projects\SaveThePrince\SaveThePrince\bin\Debug\SaveThePrince.exe
+C:\Users\Dawn\documents\visual studio 2012\Projects\SaveThePrince\SaveThePrince\bin\Debug\SaveThePrince.pdb
+C:\Users\Dawn\documents\visual studio 2012\Projects\SaveThePrince\SaveThePrince\obj\Debug\SaveThePrince.csprojResolveAssemblyReference.cache
+C:\Users\Dawn\documents\visual studio 2012\Projects\SaveThePrince\SaveThePrince\obj\Debug\SaveThePrince.exe
+C:\Users\Dawn\documents\visual studio 2012\Projects\SaveThePrince\SaveThePrince\obj\Debug\SaveThePrince.pdb
